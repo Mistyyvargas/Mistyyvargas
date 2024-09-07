@@ -7,7 +7,7 @@
 
 <h2>📚Certifications:</h2>
 
-- <b>Certified Professional Scrum Master(PSM1)</b>
+- <b><a href="https://www.credly.com/badges/529ea79c-afef-4322-b80a-13528141aed0/public_url)">Professional Scrum Master™ I (PSM I)</a></b>
 
 <h2> 💻 Connect with me:</h2>
 
