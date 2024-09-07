@@ -26,7 +26,7 @@
 [instagram]: https://www.instagram.com/mistyyvargas/
 [linkedin]: https://linkedin.com/in/misty-vargas
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mistyyvargas&label=Profile%20views&color=0e75b6&style=flat" alt="mistyyvargas" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mistyyvargas&label=Profile%20views&color=0e75b6&style=flat" alt="mistyyvargas" /> </p>
 
 <!--
 **Mistyyvargas/Mistyyvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
