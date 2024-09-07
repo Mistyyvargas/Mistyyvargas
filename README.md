@@ -1,6 +1,6 @@
-<h1>Hi, I'm Misty!🤎🍂 <br/><a href="https://github.com/Mistyyvargas">Programmer</a>, <a href="https://www.linkedin.com/in/misty-vargas/">Computer Science Student:</a></h1>
+<h1>Hi, I'm Misty!🤎🍂 <br/><a href="https://github.com/Mistyyvargas">Software Engineer</a>, <a href="https://www.linkedin.com/in/misty-vargas/">Computer Science Student:</a></h1>
 
-<h2>☕️ Software Development Projects:</h2>
+<h2>☕️ Projects:</h2>
 
 - <b>Projects</b>
   - HTML, CSS, Javascript
