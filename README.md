@@ -11,9 +11,8 @@
 <h2>☕️ Projects:</h2>
 
 - <b>Projects</b>
-  - HTML, CSS, Javascript
-
-<h2>📚Certifications:</h2>
+  - <a href="https://github.com/Mistyyvargas/Calculator/tree/main/Calculator"> Calculator Project (html, css, javascript)</a>
+  - <h2>📚Certifications:</h2>
 
 - <b><a href="https://www.credly.com/badges/529ea79c-afef-4322-b80a-13528141aed0/public_url)">Professional Scrum Master™ I (PSM I)</a></b>
 
