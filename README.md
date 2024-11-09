@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Misty!🤎🍂</h1>
+<h1 align="center">Hi, I'm Misty!🤎</h1>
 <h3 align="center">Computer Science student, seeking new opportunities.</h3>
 
 
